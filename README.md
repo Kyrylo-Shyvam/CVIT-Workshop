@@ -53,4 +53,6 @@
 
 #### Session-1
 * Task-1: Weights and Biases
-* Task-2: Image Captioning
+
+#### Session-2
+* Task-1: Image Captioning
