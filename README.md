@@ -47,3 +47,10 @@
 #### Session-2
 * Task-1: MLP Classification
 * Task-2: Face Detection
+
+
+## Day-6
+
+#### Session-1
+* Task-1: Weights and Biases
+* Task-2: Image Captioning
